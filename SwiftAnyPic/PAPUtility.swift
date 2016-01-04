@@ -1,6 +1,6 @@
 import Foundation
 import CoreGraphics
-import UIImage_AF_Additions
+import UIImageAFAdditions
 import ParseFacebookUtils
 
 class PAPUtility {
